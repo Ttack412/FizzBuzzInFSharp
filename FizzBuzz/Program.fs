@@ -1,4 +1,6 @@
-﻿open System
+﻿// Learn more about F# at http://fsharp.org
+
+open System
 
 let FizzBuzz (myNumber:Int32):String =
     let myReturn = new System.Text.StringBuilder()
